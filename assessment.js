@@ -38,7 +38,6 @@ if ("Hakeem Olajuwon" !== notHakeem){
 var age = 18;
 var canDrive;
 
-
 // CODE HERE
 if(age > 16){
   canDrive = true
